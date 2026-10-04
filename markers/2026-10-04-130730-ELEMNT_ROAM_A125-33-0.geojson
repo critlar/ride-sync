@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1995064187794924,
+          51.733963675796986
+        ]
+      },
+      "properties": {
+        "name": "5 km"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1672023124992847,
+          51.74864089116454
+        ]
+      },
+      "properties": {
+        "name": "10 km"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1852119211107492,
+          51.744333766400814
+        ]
+      },
+      "properties": {
+        "name": "15 km"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2022467982023954,
+          51.73058945685625
+        ]
+      },
+      "properties": {
+        "name": "20 km"
+      }
+    }
+  ]
+}
